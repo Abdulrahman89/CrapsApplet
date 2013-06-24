@@ -1,4 +1,4 @@
-Craps Applet
+CrapsApplet
 ==========
 
 A game of craps in a Java applet!
